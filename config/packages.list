@@ -1,0 +1,7 @@
+# Additional packages installed on top of Debian minbase
+runit-init
+udev
+ifupdown
+isc-dhcp-client
+linux-image-amd64
+live-boot

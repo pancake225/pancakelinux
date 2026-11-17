@@ -1,0 +1,10 @@
+NAME="PancakeLinux 0.1 Alpha"
+PRETTY_NAME="PancakeLinux"
+ID=pancakelinux
+ID_LIKE=debian
+VERSION="0.1 (Alpha)"
+VERSION_ID="0.1"
+VERSION_CODENAME=pancake
+HOME_URL="https://github.com/pancake225/PancakeLinux"
+SUPPORT_URL="https://github.com/pancake225/PancakeLinux/issues"
+BUG_REPORT_URL="https://github.com/pancake225/PancakeLinux/issues"
